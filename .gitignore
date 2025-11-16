@@ -206,7 +206,7 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Additional files
-data/Matches.csv
+# Secrets
 data/token.txt
+data/Matches.csv
 test2.py
