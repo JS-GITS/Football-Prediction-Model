@@ -1,5 +1,5 @@
 import discord
-import ML.data_loader as dl
+import ML.data_loader_api as dl
 import ML.helper_functions as hf
 import asyncio
 
